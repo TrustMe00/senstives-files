@@ -1,0 +1,49 @@
+# Fichiers de configuration
+.env
+.ini
+.config
+.xml
+.yaml
+.yml
+.json
+.properties
+
+# Fichiers de scripts et code source
+.py
+.js
+.php
+.sh
+.rb
+.java
+.kt
+.cs
+
+# Fichiers liés aux bases de données
+.db
+.sqlite
+.sql
+.mdb
+.accdb
+
+# Fichiers liés aux clés et certificats
+.pem
+.key
+.crt
+.pfx
+.p12
+.jks
+
+# Fichiers de sauvegarde ou de logs
+.log
+.bak
+.old
+.tmp
+
+# Fichiers spécifiques à des outils
+.htpasswd
+.pgpass
+.my.cnf
+.netrc
+.aws/credentials
+.kdbx
+.ovpn
